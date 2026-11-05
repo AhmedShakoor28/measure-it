@@ -1,0 +1,12 @@
+images used: 24, skipped: 1
+image size (w, h): (1280, 576)
+square size: 18.0 mm, pattern: (9, 7) inner corners
+overall RMS reprojection error: 0.7605 px
+per-image error: mean 0.7209 px, median 0.6655 px, worst 1.2242 px
+camera matrix:
+[[980.87296412   0.         682.74996907]
+ [  0.         978.65947618 276.49143828]
+ [  0.           0.           1.        ]]
+distortion coefficients (k1 k2 p1 p2 k3):
+[ 0.03028462  0.30134588 -0.00951234  0.0234889  -0.44798081]
+skipped: calibration/images\calib_07.jpeg (board not detected)
