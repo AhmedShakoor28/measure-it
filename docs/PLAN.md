@@ -20,3 +20,6 @@ Speed target, breaking condition, refusal thresholds and the decision record (it
 
 ## Split
 Fixed in dataset/splits/ with seed 42 before any photo was taken. The test split is never used for training, tuning or picking a checkpoint.
+
+## Update at the end
+The plan changed: the one-command pipeline and everything after it were not reached. Finding the reference card with hand-written edge rules failed on drawn test scenes. The planned fix (label the card as a second class and retrain) did not fit in the time. Items 4 to 10 are listed as not finished in the README.
