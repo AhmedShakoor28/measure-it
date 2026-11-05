@@ -1,0 +1,6 @@
+.venv/
+dataset/images_raw/
+dataset/images/
+models/weights/
+inference/results/
+__pycache__/
