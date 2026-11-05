@@ -1,3 +1,4 @@
 .venv/
 dataset/images_raw/
 dataset/images/
+models/weights/
